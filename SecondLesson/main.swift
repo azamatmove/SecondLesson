@@ -8,3 +8,4 @@
 import Foundation
 print("Hello")
 print("Aza")
+print("Pull")
